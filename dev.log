@@ -1,3 +1,18 @@
+commit 17cb18465850f39145ae137fdf1c386422c62f19
+Merge: e8f05dc 435794e
+Author: belonghim <39758197+belonghim@users.noreply.github.com>
+Date:   Sun Feb 6 22:12:50 2022 +0900
+
+    Merge pull request #4 from belonghim/main
+    
+    del_jxml
+
+commit 435794e186e97e3e047e23be677a92a95c4c91c1
+Author: Your Name <you@example.com>
+Date:   Sun Feb 6 21:31:01 2022 +0900
+
+    del_jxml
+
 commit e8f05dc6d80a0dc6c61bf9657b6dbe64da067879
 Merge: ff06e67 97f311e
 Author: belonghim <39758197+belonghim@users.noreply.github.com>
